@@ -11,7 +11,7 @@
     "@wdio/spec-reporter": "^5.12.1",
     "commander": "^3.0.0",
     "detect-libc": "^1.0.3",
-    "fibers": "^4.0.1",
+    "fibers": "^4.0.2",
     "fs-extra": "^8.1.0",
     "ordinal": "^1.0.3"
   },
