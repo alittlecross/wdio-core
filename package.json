@@ -1,7 +1,7 @@
 {
   "author": "alittlecross",
   "dependencies": {
-    "@wdio/browserstack-service": "^5.12.1",
+    "@wdio/browserstack-service": "^5.16.5",
     "@wdio/cli": "^5.12.1",
     "@wdio/cucumber-framework": "^5.12.1",
     "@wdio/junit-reporter": "^5.15.5",
