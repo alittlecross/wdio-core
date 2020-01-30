@@ -8,7 +8,7 @@
     "@wdio/junit-reporter": "^5.16.11",
     "@wdio/selenium-standalone-service": "^5.16.10",
     "@wdio/mocha-framework": "^5.18.6",
-    "@wdio/spec-reporter": "^5.16.11",
+    "@wdio/spec-reporter": "^5.18.6",
     "commander": "^4.1.0",
     "detect-libc": "^1.0.3",
     "fibers": "^4.0.2",
